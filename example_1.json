@@ -1,5 +1,5 @@
 {
-    "fruit": "Apple",
-    "size": "Large",
-    "color": "Red"
+    "name": "Jhon Nash",
+    "age": 30,
+    "city": "New York"
 }
